@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Text Encryption</string>
+    <string name="action_settings">Settings</string>
+    <string name="Button1">Encrypt</string>
+    <string name="Button2">Load/Decrypt</string>
+    <string name="Button3">Reset</string>
+    <string name="Button4">Close</string>
+    <string name="Button5">Save</string>
+	<string name="hint1">File Name</string>
+	<string name="hint2">Password</string>
+	<string name="hint3">Original Text</string>
+	<string name="randomNumber"></string>
+	<string name="randomText">Secure Key</string>
+	<string name="securmsg">Secure Key</string>
+	<string name="desc">Generator</string>
+	
+</resources>
